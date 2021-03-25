@@ -5,5 +5,4 @@
 ## Members
 ### Lorre Jones (they/them)
 ### Natacha Leonard (she/her)
-### Tchegoun Angelo Dafia (he/him)
 ### Wren Bernstein (they/them)
