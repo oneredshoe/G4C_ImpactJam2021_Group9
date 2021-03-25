@@ -1,6 +1,6 @@
 # Group 9 (Team name?)
 ### Games for Change 2021 Cross-Cultural Impact Jam
-### Theme: ___
+### Theme: Amplifying Voices
 
 ## Members
 ### Lorre Jones (they/them)
