@@ -1,5 +1,5 @@
 # Team 9
-### Games for Change 2021 Cross-Cultural Impact Jam
+### 2021 Cross-Cultural Impact Jam
 ### Theme: Amplifying Voices
 
 ## Members
