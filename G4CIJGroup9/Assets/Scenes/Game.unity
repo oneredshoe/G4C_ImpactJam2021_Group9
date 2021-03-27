@@ -199,8 +199,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 42025242}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.428, y: -30.17, z: 0}
-  m_LocalScale: {x: 0.7632573, y: 0.8484847, z: 1}
+  m_LocalPosition: {x: -1.174, y: -30.17, z: 0}
+  m_LocalScale: {x: 0.6747625, y: 0.8484847, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 13
@@ -555,7 +555,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 4
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -5446,7 +5446,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 4
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -10634,7 +10634,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 4
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -15721,7 +15721,7 @@ MonoBehaviour:
 
 '
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -15772,8 +15772,9 @@ MonoBehaviour:
   itemId: 10
   indentLevel: 0
   storyText: "So many people were out here protesting the wrongful death of this
-    black man then all the police came and escalated the damage to all of us just
-    tryna to keep more black men from excessive force and dying.\r"
+    {color=red}black man{/color} then all the police came and {color=red}escalated{/color}
+    the damage to all of us just tryna to keep more {color=red}black men{/color}
+    from excessive force and dying.\r"
   description: 
   character: {fileID: 1394941332}
   portrait: {fileID: 0}
@@ -15800,10 +15801,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: "We are here today with  Ashanti who's here to tell us and you the viewer,
-    what happened, why, and her feelings about it.\r"
+  storyText: "We are here today with  {color=red}Ashanti{/color} who's here to tell
+    us and you the viewer, what happened, why, and {color=lightblue}her{/color} feelings
+    about it.\r"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -15829,9 +15831,10 @@ MonoBehaviour:
   itemId: 37
   indentLevel: 0
   storyText: "There are no problems that could not be solved by compliance and this
-    \u201Cwoman\u201D is making this about race when it\u2019s about crime."
+    {color=lightblue}\u201Cwoman\u201D{/color} is making this about race when it\u2019s
+    about crime."
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -15860,7 +15863,7 @@ MonoBehaviour:
     turned into a chaotic fight with police and illegal acts such as looting and
     property damage of local businesses. \r\n"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -15888,7 +15891,7 @@ MonoBehaviour:
   storyText: "We are on the scene now after these Black Lives Matter protests turned
     into riots in the major metropolitan area. \r"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -15988,7 +15991,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 73
     y: 171
-    width: 123.295616
+    width: 83.295616
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16020,7 +16023,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "It\u2019s just rioters being riled up by the police doing their job. "
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -16047,7 +16050,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -94
     y: 236
-    width: 96.887634
+    width: 60
     height: 40
   tint: {r: 0.6331079, g: 0.89702535, b: 0.9811321, a: 1}
   useCustomTint: 1
@@ -16127,7 +16130,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 88.96211
     y: 275.92212
-    width: 88.80356
+    width: 60
     height: 40
   tint: {r: 0.6331079, g: 0.89702535, b: 0.9811321, a: 1}
   useCustomTint: 1
@@ -16206,7 +16209,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 247.55461
     y: 238.34744
-    width: 95.27083
+    width: 60
     height: 40
   tint: {r: 0.6331079, g: 0.89702535, b: 0.9811321, a: 1}
   useCustomTint: 1
@@ -16257,7 +16260,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 234.20537
     y: 326.35208
-    width: 124.3735
+    width: 84.3735
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16287,7 +16290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -112.97174
     y: 317.88477
-    width: 130.84076
+    width: 90.84075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16479,7 +16482,7 @@ MonoBehaviour:
   storyText: 'The kicking and beating of people already handcuffed is racially motivated
     aggression. Thank you, Ashanti, for the insight. '
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -16507,7 +16510,7 @@ MonoBehaviour:
   storyText: "I see. Black people are protesting for equal treatment under the law
     not to be above anyone else. \n"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1823112247}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -16534,7 +16537,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 87.45301
     y: 379.2459
-    width: 71.0186
+    width: 60
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18433,6 +18436,7 @@ Transform:
   m_Children:
   - {fileID: 1051771109}
   - {fileID: 2036482970}
+  - {fileID: 1823112248}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -18506,6 +18510,14 @@ PrefabInstance:
     - target: {fileID: 11400000, guid: e0d427add844a4d9faf970a3afa07583, type: 3}
       propertyPath: viewSize
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: e0d427add844a4d9faf970a3afa07583, type: 3}
+      propertyPath: secondaryAspectRatio.x
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: e0d427add844a4d9faf970a3afa07583, type: 3}
+      propertyPath: secondaryAspectRatio.y
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0d427add844a4d9faf970a3afa07583, type: 3}
@@ -18599,6 +18611,95 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1815077358}
   m_CullTransparentMesh: 0
+--- !u!1001 &1823112246
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1696114147}
+    m_Modifications:
+    - target: {fileID: 100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_Name
+      value: Mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.1346226
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.63382137
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.5216535
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: nameText
+      value: Mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: nameColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: nameColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+      propertyPath: nameColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+--- !u!114 &1823112247 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_PrefabInstance: {fileID: 1823112246}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1823112248 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
+  m_PrefabInstance: {fileID: 1823112246}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1854205071
 GameObject:
   m_ObjectHideFlags: 0
